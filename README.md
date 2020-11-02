@@ -1,2 +1,2 @@
 # AndroidProject
-Este es un proyecto bien intenso
+Este es un proyecto del juego UNO apenas esta iniciando las bases del programa
